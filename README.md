@@ -9,10 +9,13 @@ Geschiedenis van Amsterdam verteld door 'verdwenen gebouwen'
 * [Station](#station)
 * [Theater](#theater)
 * [Anders](#anders)
+
 * [Oorlog](#oorlog)
 * [Joodse gemeenschap](#gemeenschap)
 
 ## Kerken
+In 1578 werd in Amsterdam de katholieke stadsregering afgezet en sloot de stad zich aan bij de andere Hollandse steden in de 'Opstand tegen Spanje'. De kerken en kapellen kwamen in protestantse handen en iedereen die niet de "gereformeerde" religie aanhing moest zijn toevlucht zoeken in schuilkerken of de stad ontvluchten. Deze omwenteling wordt ookwel de Alteratie genoemd. Als resultaat van de Alteratie gingen de parochiekerken en kapellen over in handen van de protestanten en kregen nieuwe namen. Zo werd de (nog bestaande) St. Nicolaaskerk omgedoopt tot Oude Kerk en de Heilige Stede werd de Nieuwe Zijds Kapel. De vele kloosters in de stad kwamen in handen van het nieuwe stadsbestuur en kregen nieuwe (niet-religieuze) bestemmingen zoals weeshuis.De Sint-Willibrorduskerk buiten de Veste was een rooms-katholieke parochiekerk in Amsterdam. De kerk is gebruikt van 1873 tot 1966 en is daarna gesloopt. De kerk is de grootste kerk van architect Pierre Cuypers en is altijd onvoltooid gebleven. Het was de grootste neogotische kerk ooit in Nederland en het grootste kerkgebouw in Amsterdam.
+
 kopje over macht kerk, hoeveelheid kerken en willibrorduskerk en stadsbranden
 
 - 1302 augustinuskerk 5307
@@ -31,51 +34,34 @@ kopje over macht kerk, hoeveelheid kerken en willibrorduskerk en stadsbranden
 - 184 Heilige stede / 1421 en 1452 kapellen deels afgebrand tijdens de grote stadsbranden van Amsterdam, later hersteld en in 1908 gesloopt
 
 ## Poorten en torens
-kopje over stadsmuur en ontstaan
+De geschiedenis van de Amsterdamse stadsmuur begon in de middeleeuwen, rond 1300, met een aarden wal gelegen achter de Nieuwendijk. Rond 1490 is er een nieuwe muur gebouwd. Deze erg dikke en hoge muur van baksteen was voorzien van indrukwekkende stadspoorten en verdedigingstorens. Belagers zouden eerst het water en moerasgebieden rondom de stad moeten trotseren. Vervolgens zouden zij nog de stadsgracht over zien te komen. Een kleine eeuw lang was die verdedigingslinie afschrikwekkend genoeg. In 1494 werd de stadsmuur feestelijk ingewijd. Dat zelfde jaar nam Frankrijk dankzij de invoering van buskruit in Italië de ene na de andere ommuurde stad in. Zij gebruikten ijzeren in plaats van stenen kogels, waartegen de muren niet bestand bleken. In 1657 begon de stad met de vierde en verreweg de grootste stadsuitbreiding. Dit was een van de grootste bouwkundige ondernemingen uit die tijd. De acht kilometer lange muur bestond uit acht stadspoorten en 26 bolwerken.
 
-- 832 Haarlemmerpoort
-- 190 Sint olofspoort
-- 907 Korsjespoort
-- 193 Jan Roodenpoortstoren
-- 6146 Eerste heiligewegspoort
-- 231 Heiligewegspoort
-- 887 Regulierspoort = munttoren
-- 185 Leidsepoort
-- 233 Utrechtsepoort
-- 192 Weesperpoort
-- 6166 Muiderpoort
+Een van de torens in de stadsmuur is het Swych Utrecht. Deze diende oorspronkelijk als kloveniersdoelen. In deze toren bevond zich een grote feestzaal waar "De Nachtwacht" van Rembrandt enige tijd heeft gehangen.
 
-- 214 rondeel / bolwerk in 15e eeuwse stadsmuur, bij Rokin (waar Amstel de stad binnenstroomde), 17e eeuw werd het een gelijknamige herberg. In 19e eeuw omgetoverd tot huidige hotel de l’europe
-- 217 Swych utrecht / toren in de stadsmuur, diende als oorspronkelijke kloveniersdoelen. In de grote feestzaal hing “De Nachtwacht” van Rembrandt
+http://www.ernestkurpershoek.nl/adamstadswal.htm
+https://nl.wikipedia.org/wiki/Vestingwerken_van_Amsterdam#Stadsmuur
 
 ## Kraakbeweging
-kopje over krakersrellen
+Vanaf het midden van de jaren 70 vonden in het centrum van Amsterdam de krakersrellen plaats. Eind jaren 70 liepen de spanningen tussen linkse activisten en de gevestigde orde binnen de Nederlandse samenleving hoog op. Het aantal kraakacties nam explosief toe, net als het aantal ontruimingsbevelen dat de rechter tegen de krakers uitsprak. De maatschappelijke onrust en de politieke polarisatie namen toe waardoor het vanaf februari 1980 tot een reeks grootschalige gewelduitbarstingen kwam. Op 30 april 1980, de inhuldiging van koningin Beatrix, vonden de kroningsrellen plaats. De stad veranderde in een slagveld onder het motto "Geen woning, geen kroning!".
 
-- 6153 Blaaskop / gekraakt complex op de wibautstraat
-- 1308 De wielingen / tot 1970 een weeshuis, toen gekraakt
-- 3741 Grote wetering / verkoopt van zuivere koemelk, in 1978 gekraakt
-- 3735 Wyers / groothandel in woningtextiel, in 1984 gekraakt
+https://www.youtube.com/watch?v=P_m3DsvlewM
 
 ## Ajax stadions
-stukje over Ajax, overstap naar andere stadions
+Door de jaren heen heeft AFC Ajax in verschillende stadions gespeeld. Tot 1907 speelde de club op een veldje in Amsterdam-Noord, door de bouw van nieuwe woningen moesten zij opzoek naar een nieuwe locatie. Zij verhuisde naar Het Houten Stadion. De eerste jaren was er geen stadion; er waren geen tribunes, waterleidingen of kleedkamers. Pas in 1911 kwamen er tribunes met overdekte zit- en staanplaatsen. Door de successen van Ajax in de jaren 30 werd dit stadion te klein. Zij verhuisden op 9 december 1934 naar het stadion De Meer. In augustus 1996 opende zij de Amsterdam ArenA. Tegelijk met deze opening onstond er een brand in het oude De Meer stadion, dat toen al gedeeltelijk gesloopt was.
 
-- 232 Het houten stadion / eerste echte stadion van Ajax, speelde daarvoor op een veldje in Noord tot 1907. In 1911 was het stadion pas een voldaan stadion met tribunes. In 1934 verhuisde zij opnieuw.
-- 186 Stadion de meer, tussen 1934 en 96 de thuishaven van Ajax. In augustus 1996, tijdens de opening van de ArenA, ontstond er een brand in het het al gedeeltelijk gesloopte stadion.
-- 3779 Het Nederlandsch Sportpark, het stadion. Later de plek van het Olympisch Stadion. Ajax heeft overwogen hier naartoe te verhuizen, maar zij hadden het terrein van Het Houten stadion al.
+Het Nederlandsch Sportpark, ook wel bekend als 'Het Stadion', zou later de plek worden voor het Olympisch Stadion. Ajax heeft overwogen hier naartoe te verhuizen, maar zij hadden het terrein van Het Houten stadion al bemachtigd.
+
+https://nl.wikipedia.org/wiki/Het_Houten_Stadion
+https://nl.wikipedia.org/wiki/Stadion_De_Meer
 
 ## Station
-stukje over oude stations en ontstaan van centraal
-
-- 193 Station Amsterdam weesperpoort
-- 836 Station willemspoort
-- 200 Station koenenkade
-- 213 station oosterdok
-- 201 station westerdok (+ oost werd centraal)
-- 203 Station petroleumhaven
-- 202 Station zaanstraat
-- 3791 Sloterdijk zuid
+Amsterdam heeft vroeger veel stations gehad. Deze stations maakte deel uit van specifieke verbindingen met steden. Door de jaren heen zijn veel van deze stations verdwenen of vervangen door andere stations. Een leuke bevinding is dat station Amsterdam Oosterdok en station Amsterdam Westerdok samen station Amsterdam Centraal hebben gevormd. Het Oosterdok station is in december 1879 afgebrand, waarna station Westerdok de functie van dit station overnam. In oktober 1889 werd dit station gesloten en werd het Centraal Station geopend.
 
 ## Theater
+Vroeger kende Amsterdam veel theaters. Schouwburg van Van Campen was de eerste stadsschouwburg van Amsterdam, gebouwd in 1637. Op 11 mei 1772 onstond er na een voorstelling een brand waarbij de gehele schouwburg afbrandde. Er vielen 18 doden. Het puin werd gezeefd vanwege goud en juwelen.
+
+Een ander interessant theater in oud Amsterdam is de Hoogduitse Schouwburg, ookwel Deutsches Theater genoemd. De voorstellingen in dit theater, een van de eerste van de stad, fungeerde als een katalysator van het Nederlandse theaterleven. Het theater opende in januari 1791. In de 20e eeuw raakte het gebouw in onbruik. Tijdens de hongerwinter (1944-1945) werd het theater gebruikt door inwoners van de stad als bron voor brandhout. In 1946 werd het gebouw gesloopt.
+
 - 3758 Panorama gebouw / Opkomst van de bioscoop was finest voor het panorama gebouw. Gebouw heeft nog jaren leeg gestaan na de sluiting in 1920
 - 5695 Cinema royal / gebouwd in 1921-1922, voor die tijd een groot theater met 1400 plaatsen. In 1978 na een brand is de bioscoop afgebroken.
 - 176 Hoogduitse schouwburg / ook wel Deutsches Theater genoemd, een van de eerste theater in de stad. De voorstellingen fungeerde als een katalysator van het Nederlands theaterleven. Opende in 1791 en raakte in de 20e eeuw in onbruik. Tijdens de hongerwinter (1944-1945) werd het gebruikt door inwoners vd stad als bron van brandhout. In 1946 werd de ruime gesloopt.
@@ -87,20 +73,10 @@ stukje over oude stations en ontstaan van centraal
 - 5825 Cinema parisien / 1881 gebouwde pand werd in 1910 verbouwd tot bioscoop. Van 1910 tot 1956 was Jean Desmet diriceur van Parisien, heeft bestaan tot 1987. Was Desmets 2e bioscoop (na Parisien in Rotterdam), opgericht in 1909. In het begin doorlopende voorstelling van korte films en de grote belangstelling zorgde ervoor dat toeschouwers zo langzaamaan naar voren schoven tot ze onder het filmscherm door via de nooduitgang naar buiten werd gedrukt.
 - 6175 Cinema rex / op deze plek, vanaf 1922 in dit gebouw, bevond zich van 1912 tot 1989 een bioscoop; eerst Scala, later Rex. Eindigde in een pornobioscoop onder de naam Cinema Parisien. Het bioscoopgebouw werd in 1992 gesloopt.
 
-## Anders
-- 246 Oude stadhuis / eerste stadhuis van de kleine middeleeuwse stad Amsterdam. Van 14e eeuw tot brand in juli 1652
-- 223 Paalhuis / voormalig belastingkantoor en eerste postkantoor van Amsterdam. In 1560 in Hollandse renaissance-stijl gebouwd, half in het IJ zodat schippers hier gemakkelijk paalgeld konden betalen + brieven voor kooplieden achterlaten. Midden 17e eeuw afgebroken voor de aanleg van een schutsluis tussen IJ en damrak.
-- 239 Beurs van Hendrick de Keyser / eerste koopmansbeurs, aan het Rokin, voorloper van de huidige Nederlandse effectenbeurs. Oprichting in begin 17e eeuw.
-- 218 Voetboogdoelen / vanaf 1674 verhuurd aan de West-Indische compagnie (WIC) als hoofdkantoor van de nieuw gevormde tweede WIC. West-Indisch Huis genoemd. 1683 tot 1795 ruimten gebruikt door de Societeit van Suriname. In de franse tijd als kazerne gebruikt. In 1816 afgebroken voor de rooms-katholieke sint-catharinakerk.
-- 215 Kloveniersdoelen / verzamelplaats en oefenruimte voor een aantal compagnieën van de plaatselijke schutterij. Schutters bewapend met een primitief musketgeweer dat bus of klover (van frans ‘couleuvrine’) genoemd werd, vandaar de naam kloveniers.
-- 245 Oude doelen / uit 1417 bestemd als oefenterrein voor de schutterij.
--
-- 206 Meerhuizen / 1676 tot 1916 een hofstede aan de Amsteldijk, rond 1920 een kunstenaarskolonie gevestigd.
-- 1 Paleis voor volksvlijt / groot glazen tentoonstellingsgebouw aan het Frederiksplein, tussen 1859 en 1864 gerealiseerd. Geinspireerd door het Crystal Palace in Londen. In 1929 werd het paleis door brand verwoest.
--
-- 224 Sint jorishof / oorspronkelijk Sint Jorisgasthuis, eerste leprozenhuis van Amsterdam. Middeleeuws gebouw waar lepralijders werden gehuisvest. Lag aan de Kalverstraat, oorspronkelijk locatie net buiten de stad
-- 227 Oude buitengasthuis / Gasthuis speelde belangrijke rol in de ontwikkeling van de verpleging in NL, pesthuis voor pestepidemieën. Brandde in 1732 af en werd vervangen door een nieuw gebouw.
-- 3792 nieuwe Buitengasthuis / nieuwe gasthuis na het afbranden van het origineel. Pestepedimieen waren eind 17e eeuw uitegewoed, maar het buitengasthuis bleef bestaan als ziekenhuis voor de allerarmsten van de stad. Hier werden ongeneeslijk zieken, geestelijk zieken en lijders aan besmettelijke ziekten naartoe gestuurd.
+## Old Amsterdam
+Amsterdam dankt zijn naam aan de ligging bij een in de 13e eeuw aangelegde dam in de Amstel. De stad groeide in de Gouden Eeuw uit tot een van de belangrijkste haven- en handelssteden ter wereld. Het Oude Stadhuis was het eerste stadshuis van de kleine middeleeuwse stad Amsterdam. Het heeft bestaan vanaf de 14e eeuw tot aan de brand op 7 juli 1652. Het werd daarna vervangen door het grote nieuwe stadhuis, sinds 1808 "Paleis op de Dam" genaamd. Het Paalhuis was het voormalig belastingkantoor en eerste postkantoor van Amsterdam. Het gebouw was in 1560 in Hollandse renaissance-stijl gebouwd en bevond zich half in het IJ zodat schippers hier gemakkelijk paalgeld konden betalen. Ook konden zij hier brieven voor kooplieden achterlaten. Het gebouw werd halverwege de 17e eeuw afgebroken voor de aanleg van een schutsluis tussen het IJ en de Damrak. In de 17e eeuw werd de Beurs van Hendrick de Keyser opgericht. Dit was de eerste koopmansbeurs en voorloper op de huidige Nederlandse effectenbeurs.
+
+Tijdens de pestepidemiën onstonden er gasthuizen waar zieken konden verblijven als zij ziek waren. De Oude- en Nieuwe buitengasthuis diende als pesthuizen. Het Sint Jorishof diende als leprozenhuis, tijdens de lepera uitbraken. Deze gasthuizen hebben een belangrijke rol gespeeld in de ontwikkeling van de Nederlandse verpleging.
 
 ## Oorlog
 stukje over impact van de oorlog, bombardementen, bunkers etc.
@@ -113,9 +89,3 @@ stukje over impact van de oorlog, bombardementen, bunkers etc.
 
 ## Joodse gemeenschap
 stukje over joodse buurt en synagoge
-
-### Synagoge
-- 5457 Stroomarktsjoel / waterlooplein 54
-- 5406 synagoge Lange Houtstraat / gesloopt voor metro en stopera
-- 5440 Synagoge Reisjies Touv / korte houtstraat 13
-- 5430 Synagoge waterlooplein / gesloopt voor metro
